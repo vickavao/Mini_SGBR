@@ -1,7 +1,9 @@
 #include <stdio.h>
-
-int main() {
-    printf("Hello, World!\n");
-        printf("I nam is jeff\n");
+#include <stdlib.h>
+#include <string.h>
+#include "fonction.h"
+int main(void)
+{
+    menu(); 
     return 0;
 }
